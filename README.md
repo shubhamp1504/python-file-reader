@@ -39,6 +39,18 @@ python-file-reader/
 ```
 
 ---
+---
+## 📥 Clone Repository
+
+```bash
+git clone ## 📥 Clone Repository
+
+```bash
+git clone https://github.com/shubhamp1504/python-file-reader.git
+
+cd python-file-reader
+```
+---
 
 
 ## 🔨 Build the Docker Image
